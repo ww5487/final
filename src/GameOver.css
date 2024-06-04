@@ -1,0 +1,29 @@
+/* src/GameOver.css */
+.game-over-container {
+  text-align: center;
+  color: #000;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.game-over-image {
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.restart-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  border-radius: 5px;
+  background-color: #000000;
+  margin-top: 20px;
+}
